@@ -1,7 +1,7 @@
 <resources>
 
     <declare-styleable name="CommonTitleView">
-       <attr name=""
+       <!--<attr name=""-->
 
     </declare-styleable>
 
